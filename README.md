@@ -13,13 +13,6 @@ O notebook `Rewind_Spotify.ipynb` contém:
 - Visualizações para destacar padrões e hábitos musicais
 - Algumas curiosidades e estatísticas personalizadas
 
-## 🛠️ Ferramentas e Tecnologias
-
-- Python 🐍
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
 ## 📊 Fonte dos Dados
 
 Os dados foram exportados diretamente do [Spotify – Minha conta > Privacidade > Baixar meus dados](https://www.spotify.com/account/privacy/). Esse processo gera arquivos JSON com o histórico de escuta, que foram usados para alimentar as análises do notebook.
